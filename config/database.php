@@ -7,9 +7,9 @@ declare(strict_types=1);
 
 class DatabaseConfig {
     const HOST = 'localhost';
-    const USER = 'root';
-    const PASSWORD = '';
-    const DEFAULT_DB = 'rasanjana';
+    const USER = 'ideaAppUser';
+    const PASSWORD = 'dcvodwuvbwuoADSbvcc9496@#@572ccccc2iengerbnvvn';
+    const DEFAULT_DB = 'ideaAppDB';
     
     // Prevent instantiation
     private function __construct() {}
